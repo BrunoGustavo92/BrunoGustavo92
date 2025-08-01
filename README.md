@@ -1,7 +1,11 @@
-## Hi there 👋
+# 👋 Olá, sou o Bruno
 
-<!--
-**BrunoGustavo92/BrunoGustavo92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Tenho 33 anos, resido em São Paulo - SP, estou em aprendizado para entrar no mundo da tecnologia no qual sempre fui apaixonado.
+
+## 🖥️ Tecnologias e Ferramentas que estou estudando:
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg" width="40" heigth="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain-wordmark.svg" width="40" heigth="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" width="32" heigth="32" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-plain-wordmark.svg" width="40" heigth="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="33" heigth="33" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="40" heigth="40" />
+ 
 
 Here are some ideas to get you started:
 
@@ -13,4 +17,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+![Snake animation](https://github.com/BrunoGustavo92/BrunoGustavo92/blob/output/github-contribution-grid-snake.svg)
